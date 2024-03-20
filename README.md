@@ -1,5 +1,5 @@
 
-HollywowApi-MongoDb
+<h1>HollywowApi-MongoDb</h1>
 
 Project based on the Hollywow-Api Project, for which I attach the Readme, but migrated to MongoDB.
 
@@ -13,7 +13,7 @@ Project based on the Hollywow-Api Project, for which I attach the Readme, but mi
 
 
 
-<h1> 🎞 Hollywow-API 🎟</h1>
+<h2> 🎞 Hollywow-API 🎟</h2>
 This project consists in the Back-end of an API called Hollywow, which consists of performing the __CRUD__ method using POST (Create), GET (Read), PUT (Update) and DELETE (Delete) requests, with several technologies.
 
 
